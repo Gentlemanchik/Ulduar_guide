@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru-RU">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>{{ project_title }} by {{ owner_name }}</title>
+    {% include head-custom.html %}
+    <script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: false};</script>
+    <script src="https://wow.zamimg.com/widgets/power.js"></script>
+    <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
+</head>
+<body>
+<div id="header">
+    <h1>Руководство по боссам Санвэла</h1>
+
+    <a href="/Sunwell_guide">Начало</a> |
+    <a href="/Sunwell_guide/Things_for_raid">Химия</a> |
+    <a href="/Sunwell_guide/map">Карта</a> |
+    <a href="/Sunwell_guide/Kalesgos">Калесгос</a> |
+    <a href="/Sunwell_guide/Brutallus">Бруталл</a> |
+    <a href="/Sunwell_guide/Felmyst">Пророк Скверны</a> |
+    <a href="/Sunwell_guide/twineredar">Близняшки</a> |
+    <a href="/Sunwell_guide/Muru">М'ууру</a> |
+    <a href="/Sunwell_guide/Kildjedan">Кил'джеден</a> |
+</div><!-- end header -->
+
+<div class="wrapper">
+    <nav>
+        <ul></ul>
+    </nav>
+
+    <section>
+        {{ content }}
+    </section>
+
+    <section>
+        <div id="title">
+            <hr>
+            <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+            <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/mattgraham">mattgraham</a></span>
+        </div>
+    </section>
+
+</div>
+</body>
+</html>
