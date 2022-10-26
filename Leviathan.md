@@ -28,7 +28,7 @@
 
 Способности чоппера:
 
-|||
+||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:---|:---:|
 | 1. [Ультразвуковой рожок](https://www.wowhead.com/wotlk/ru/spell=62974) **(20 энергии)**: выпускает звуковую волну перед собой, наносящую от 6300 до 7700 <span style = "color:brown">физического</span> урона.||
 | 2. [Мазут](https://www.wowhead.com/wotlk/ru/spell=62286) **(0 энергии)**: чоппер выплёскивает немного мазута позади себя, создавая лужу из этой жижи радиусом 9 ярдов. В луже все враги замедляются на 75%. Мазут существует 45 с. КД способности 15 с.|![mazut](/img/Мазут2.gif)|
