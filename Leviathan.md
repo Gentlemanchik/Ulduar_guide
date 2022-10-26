@@ -37,9 +37,9 @@
 
 ## Трофейный разрушитель ##
 
-|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||
 |:---:|:---:|
-|![motik](/img/Разрушитель2.png)| Самая дамажашая машина, в которой может находится <span style = "color:red"> водитель </span> и один <span style = "color:green">Пассажир</span>. Основная роль - наносить урон Левиафану и катапультировать десант на его крышу, чтоб убить турелли и вывзвать [перегрузку системы](https://www.wowhead.com/wotlk/ru/spell=62475). |
+|![motik](/img/Разрушитель2.png)| Самая дамажашая машина, в которой может находится <span style = "color:red"> водитель </span> и один <span style = "color:yellow">Пассажир</span>. Основная роль - наносить урон Левиафану и катапультировать десант на его крышу, чтоб убить турелли и вывзвать [перегрузку системы](https://www.wowhead.com/wotlk/ru/spell=62475). |
 
 # Начало ивента "Битва на Железном дворе" #
 
