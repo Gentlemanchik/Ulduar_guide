@@ -96,7 +96,7 @@
 
 ||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:---|:---:|
-| 1. [Таран](https://www.wowhead.com/wotlk/ru/spell=62345) **(40 пара)**: работает также, как [таран](https://www.wowhead.com/wotlk/ru/spell=62308) разрушителя но немного сильнее. Наносит от 22 501 до 27 501 ед. <span style = "color:brown">физического</span> урона противникам перед разрушителем и отталкивает их назад. Также наносит 2850 to 3150 ед. осадного урона строениям.| |
+| 1. [Таран](https://www.wowhead.com/wotlk/ru/spell=62345) **(40 пара)**: работает также, как [таран](https://www.wowhead.com/wotlk/ru/spell=62308) разрушителя но немного сильнее. Наносит от 22 501 до 27 501 ед. <span style = "color:brown">физического</span> урона противникам и отталкивает их назад. Также наносит 2850 to 3150 ед. осадного урона строениям.| |
 
 # Начало ивента "Битва на Железном дворе" #
 
