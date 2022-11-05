@@ -63,7 +63,7 @@
 
 ![скилы шефа](/img/Разрушитель_водила_скилы.png)
 
-Водитель, не удивляйтесь, ВОДИТ Более подробно о способностях водителя: 
+**Водитель**, не удивляйтесь, ВОДИТ тарантайку. Может кидаться как обычными огненными валунами, так и бочками с колчеданом, не проч потаранить и отбросить всякую мелочь перед собой и запускает пассажира на крышу босса. Более подробно о способностях водителя: 
 
 ||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:---|:---:|
@@ -85,6 +85,12 @@
 | 3. [Притягивание ящиков](https://www.wowhead.com/wotlk/ru/spell=67387) **(0 колчедана)**: захватывает выбранную бочку с колчеданом, тянет к разрушителю и заправает в бак. Добавляет 25 единиц колчедана. Дальность захвата 50 ярдов. |![bocharik](/img/Бочку на базу.gif)|
 | 4. [Повышенная скорость](https://www.wowhead.com/wotlk/ru/spell=62471) **(25 колчедана)**: заливает часть жидкого колчедана в двигатель, увеличивая скорость разрушителя на 100% на 20 с. |TODO|
 | 6. [Загрузка в катапульту](https://www.wowhead.com/wotlk/ru/spell=64414) **(0 колчедана)**: помещает персонажа в ковш катапульты, чтоб быть потом катапультированным способностью [выброс пассажира](https://www.wowhead.com/wotlk/ru/spell=62324). Во время пребывания в ковше невозможно пользоваться способностями пассажира.| ![Петрооович!](/img/Загрузка в катапульту.gif)|
+
+## Трофейная осадная машина ##
+
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||
+|:---:|:---:|
+|![motik3](/img/Осадная_машина2.png)| Самая жирная машина, в которой может находится <span style = "color:red"> водитель </span> и один <span style = "color:yellow">пассажир</span>. Хороша в кайте босса и может прерывать его пренеприятнейшие способности. <br/> У осадки 1 134 000 базового здоровья. |
 
 # Начало ивента "Битва на Железном дворе" #
 
