@@ -6,7 +6,7 @@
 
 Энкаунтер условно разделяется на 2 части. Первая: рейд на машинах должен проехать через Железный двор, убивая весь трешь на своём пути. Попутно нужно разрушать башни, из которых появляются новые мобцы, и по необходимости разрушать _Башни Хранителей(хардмод, но про в отдельной секции)_. Вторая часть - это бой с самим Огненным Лефиафаном.
 
-# Боевые машины #
+## Боевые машины ##
 
 Поговорим о бронемашинах. Игрокам в автопарке дают выбрать из 3-х видов боевой техники. Быстрые <span style = "color:yellow">мотоциклы</span> выполняют роль поддержки и немного ДД. Устрашающие <span style = "color:#0040FF"> разрушители</span> вносят основной урон по Левиафану, также могут катапультировать игроков на крышу босса. Наконец, могучие <span style = "color:#FFF4F3"><b>осадные машины</b></span> будут основными "танками", способными поводить босса и прерывать его самые неприятные атаки. 
 
@@ -16,7 +16,7 @@
 
 Давайте разберём каждую из машин.
 
-## Трофейный чоппер ##
+### Трофейный чоппер ###
 
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||
 |:---:|:---:|
@@ -37,7 +37,7 @@
 
 
 
-## Трофейный разрушитель ##
+### Трофейный разрушитель ###
 
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||
 |:---:|:---:|
@@ -67,7 +67,7 @@
 | 1. [Пушечный залп](https://www.wowhead.com/wotlk/ru/spell=62634) **(0 колчедана)**: стреляет из пушки огненным снарядом, наносящиц урон от <span style = "color:red">огня</span> в радиусе 11 ярдов от места приземления. Урон противнику наносится тем больше, чем ближе он находится к центру взрыва. Если чуть зацепить врага, то нанесётся около 5000 урона. Прямое попадание нанесёт около 120 000 урона. Дальность полёта снаряда от 10 до 50 ярдов.||
 | 2. [Противовоздушная ракета](https://www.wowhead.com/wotlk/ru/spell=64979) **(0 колчедана)**: стреляет из пушки ракетами, которыми миожно сбить летающие бочки с колчеданом. Наносит урон||
 
-# Начало ивента "Битва на Железном дворе" #
+## Начало ивента "Битва на Железном дворе" ##
 
 Чтобы начать битву с 
 
