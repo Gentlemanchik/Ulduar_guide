@@ -7,7 +7,7 @@
 | 1. Огненный Левиафан|:heavy_check_mark:|:heavy_check_mark:|
 | 2. Повелитель Горнов Игнис|:x:|:x:|
 | 3. Острокрылая|:x:|:x:|
-| 4. Разрушитель XT-002|:x:|:heavy_check_mark:|
+| 4. Разрушитель XT-002|:heavy_check_mark:|:heavy_check_mark:|
 
 # Вестибюль Ульдуара #
 
