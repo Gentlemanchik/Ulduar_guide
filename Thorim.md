@@ -1,6 +1,6 @@
 # Торим #
 
-![1_nhorim]()
+![1_тhorim]()
 
 <p align="center"><u>Немного лора</u></p>
 <p align="center">
