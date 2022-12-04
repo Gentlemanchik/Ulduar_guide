@@ -1,6 +1,6 @@
 # Торим #
 
-![1_тhorim](/img/Торим/1_Торим.jpg)
+![1тhorim](/img/Торим/1_Торим.jpg)
 
 <p align="center"><u>Немного лора</u></p>
 <p align="center">
