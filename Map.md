@@ -28,7 +28,7 @@
 
 |Босс|Хардмод|Обязательный|
 |:---|:---:|:---:|
-| 7. Аурия |:x:|:x:|
+| 7. Ауриайя |:x:|:x:|
 | 8. Мимирон |:heavy_check_mark:|:heavy_check_mark:|
 | 9. Фрейя|:heavy_check_mark:|:heavy_check_mark:|
 | 10. Торим |:heavy_check_mark:|:heavy_check_mark:|
