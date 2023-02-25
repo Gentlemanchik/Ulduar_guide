@@ -102,7 +102,7 @@ _Вторая фаза_
 
 Можно выбрать класс и КДшки. 
 
-https://docs.google.com/spreadsheets/d/1xR_82bhTq9yDEDJSyQyJGmqDYo_apobiOVdn3G6MFvs/edit#gid=1622263297
+[Algalon Big Bang Suvival](https://docs.google.com/spreadsheets/d/1xR_82bhTq9yDEDJSyQyJGmqDYo_apobiOVdn3G6MFvs/edit#gid=1622263297)
 
 ### Уменьшаем урон по танку ### 
 
